@@ -12,6 +12,7 @@ namespace Fibonacci
         {
             Console.WriteLine("First change");
             Console.WriteLine("Second change bugfixing");
+            Console.WriteLine("Third change bugfixing");
         }
     }
 }
