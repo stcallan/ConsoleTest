@@ -10,6 +10,7 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("First change");
         }
     }
 }
